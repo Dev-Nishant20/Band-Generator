@@ -7,7 +7,7 @@ open package.json and
 "version": "1.0.0", 
 "description": "", 
 "main": "index.js", 
-"type": "module",    //Add this
+"type": "module",  **  //Add this**
 
 install express: npm i express
 
@@ -16,3 +16,4 @@ install ejs: npm i ejs
 install nodemon: npm i nodemon
 
 run the server : nodemon index.js# Band-Generator
+
